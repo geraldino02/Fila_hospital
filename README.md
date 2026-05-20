@@ -28,7 +28,7 @@ Remoção do paciente mais prioritário (O(log n))<br>
 Visualização da fila<br>
 
 Essa abordagem garante eficiência mesmo com grande número de pacientes, organizando corretamente o atendimento conforme o nível de urgência.<br>
-link para visualização na prática do código em funcionamento: https://youtu.be/NzeJUprm7Bc
+link para visualização na prática do código em funcionamento: https://youtu.be/NzeJUprm7Bc <br>
 Integrantes do grupo:<br>
 GABRIEL MOSSARELLI MOFATTO - N056797<br>
 GUILHERME GOUVÊA MARRAFON - G8354H0<br>
