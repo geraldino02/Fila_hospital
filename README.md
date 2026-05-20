@@ -28,3 +28,4 @@ Remoção do paciente mais prioritário (O(log n))
 Visualização da fila
 
 Essa abordagem garante eficiência mesmo com grande número de pacientes, organizando corretamente o atendimento conforme o nível de urgência.
+link para visualização na prática do código em funcionamento: https://youtu.be/NzeJUprm7Bc
